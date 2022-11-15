@@ -75,7 +75,7 @@
       "setup": "javac Soal04.java",
       "run": "java Soal04",
       "input": "5 4 6",
-      "output": "91",
+      "output": "90",
       "comparison": "included",
       "timeout": 10,
       "points": 10
